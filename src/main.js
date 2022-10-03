@@ -6,6 +6,6 @@ import router from './router'
 import './assets/main.css'
 
 new Vue({
-  router,
-  render: (h) => h(Index)
+	router,
+	render: h => h(Index),
 }).$mount('#app')

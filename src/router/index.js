@@ -5,15 +5,15 @@ import Index from '../views/Index.vue'
 Vue.use(VueRouter)
 
 const router = new VueRouter({
-  mode: 'history',
-  base: import.meta.env.BASE_URL,
-  routes: [
-    {
-      path: '/',
-      name: 'index',
-	  component: Index,
-    },
-  ]
+	mode: 'history',
+	base: import.meta.env.BASE_URL,
+	routes: [
+		{
+			path: '/',
+			name: 'index',
+			component: Index,
+		},
+	],
 })
 
 export default router
