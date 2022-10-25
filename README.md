@@ -14,6 +14,8 @@
 
 #### **Construido utilizando VUE 2.7.7 + Vite 3.0.2**
 
+#### [Design feito no Figma](https://www.figma.com/proto/5EKXM2Jw5MXlu4XmCB9sKh/Valor-do-Real?node-id=1%3A6)
+
 ## Instalação
 
 ```sh

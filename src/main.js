@@ -7,8 +7,6 @@ import 'bootstrap'
 import $axios from './plugins/axios'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
-import 'uno.css'
-import 'reset-css'
 import './assets/main.css'
 
 Vue.prototype.$axios = $axios
